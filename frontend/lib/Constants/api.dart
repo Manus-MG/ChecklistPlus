@@ -1,0 +1,13 @@
+// const String api = 'http://10.0.2.2:8000';
+// const String api='http://192.168.29.131:8000/';
+const String api='https://mg.pythonanywhere.com/';
+// const String base='http://127.0.0.1:8000';
+// const String base='http://10.0.2.2:8000';
+const String base='http://192.168.29.131:8000';
+const String register='/api/user/register/';
+const String login='/api/user/login/';
+const String profile='/api/user/profile/';
+const String tokenRefresh='';
+String globalemail='';
+int lengthdone=0;
+int lengthincomp=0;
